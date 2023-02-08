@@ -1,2 +1,2 @@
 # DevOps14Fall2
-testing loning the repo via ssh
+testing cloning the repo via ssh
